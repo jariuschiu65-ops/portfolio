@@ -98,12 +98,11 @@ export default function Home() {
               <div className="w-full h-full flex items-center justify-center">
                 <div className="text-center opacity-90">
                   <div className="text-2xl font-bold">Live Preview</div>
-                  <div className="mt-2 text-sm">(Replace this area with screenshots or animated GIFs of your scripts)</div>
+                  <div className="mt-2 text-sm"></div>
                 </div>
               </div>
             </div>
             <div className="mt-6 text-sm opacity-85">
-              Pro tip: Add 1–3 screenshots from each project (server logs, in-game UI) to increase credibility.
             </div>
           </motion.div>
         </section>
