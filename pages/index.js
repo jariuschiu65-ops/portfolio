@@ -202,7 +202,7 @@ export default function Home() {
           <div className="mt-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
             <div>
               <div className="text-sm opacity-85">Discord</div>
-              <div className="font-mono mt-1">ChilleSkripts#0001</div>
+              <div className="font-mono mt-1">caden8978</div>
             </div>
             <div className="flex gap-3">
               <a href="#" className="px-4 py-2 rounded-md bg-white/8">Request Script</a>
